@@ -2,6 +2,11 @@
 
 ### Places to Eat
 - City Tacos
+- Taco Bell
+- Alberto's (has tacos)
+- Rubio's (has tacos)
+- Encontro (has tacos)
+- Cruiser Tacos
 - Sushi N Joy
 - Herb n wood
 
